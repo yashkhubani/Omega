@@ -2,7 +2,7 @@
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
 <p align="center" style="font-size:25px">
-OM3GA
+**OM3GA**
 </p>
 
 <p align="center">
