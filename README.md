@@ -1,8 +1,8 @@
 <p align="left">
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
  </p>
-<p align="center" style="font-size:25px">
-**OM3GA**
+<p align="center" style="font-weight:bolder;font-size:50px">
+<center><h1 align="center" >OMEGA</h1></center>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ FACEBOOK | TWITTER | INSTAGRAM
 * HiddenEye ( For there Phishing Pages ) 
 
 
-### Requirement
+## Requirement
 * Google Firebase
 * A GitHub Account
 
