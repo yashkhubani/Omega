@@ -3,16 +3,7 @@
 
 ///Edit Under This
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
-};
+https://www.instagram.com/p/CCgpgO8CjcW/?igshid=1jhbhlv4r0wic
 
      
  
